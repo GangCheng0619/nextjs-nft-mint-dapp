@@ -11,7 +11,7 @@ The actual dApp is here: [Skulls In Love](https://www.skullsin.love/)
 1. Clone this project:
 
 ```sh
-git clone https://github.com/kjmczk/nextjs-nft-mint-dapp.git
+git clone https://github.com/cryptogalaxy04/nextjs-nft-mint-dapp.git
 ```
 
 2. Change into the directory:
